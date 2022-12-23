@@ -2,7 +2,7 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Notas
+## Notas adicionales
 Práctica planteado desde el curso de Git + GitHub
 
 ### Actualizado desde GitHub
