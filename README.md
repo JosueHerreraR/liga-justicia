@@ -5,4 +5,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Esta práctica esta planteado desde el curso de Git + GitHub de Udemy
 
 ### Actualizado desde GitHub
-Este mensaje fue editado completado en GitHub
+Este mensaje y los distintos cambios, fue editados desde _GitHub_
